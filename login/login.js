@@ -4,7 +4,7 @@ export const login = () => {
   return (
     <div>
       <section>
-        <button>Login</button>
+        <button>Inicio de sesion</button>
       </section>
     </div>
   )
