@@ -2,6 +2,10 @@ import React from 'react'
 
 export const login = () => {
   return (
-    <div>Inicio de sesion</div>
+    <div>
+      <section>
+        <button>Inicio de sesion</button>
+      </section>
+    </div>
   )
 }
